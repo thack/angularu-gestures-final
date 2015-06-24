@@ -1,1 +1,5 @@
-/* Empty. Add your own CSS if you like */
+.square {
+  width: 184px;
+  height: 200px;
+  background: #DDD url('../img/shield.png') 0/100%;
+}
